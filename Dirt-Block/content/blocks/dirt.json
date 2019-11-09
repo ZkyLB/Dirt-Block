@@ -1,0 +1,11 @@
+{
+	"type": "Block",
+	"name": "Dirt",
+	"description": "It is just dirt. Nothing else."
+	"health": 500,
+	"size": 1,
+	"category": "defense",
+	"requirements": [
+		{ "item": "copper", "amount": 10 }
+	]
+}
